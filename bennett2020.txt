@@ -1,0 +1,789 @@
+Climate change in ﬂuences mycorrhizal fungal –plant interactions, but
+conclusions are limited by geographical study bias
+ALISON E. B ENNETT1,5ANDAIM/C19EET. C LASSEN2,3,4
+1Department of Evolution, Ecology and Organismal Biology, Ohio State University, Columbus, Ohio 43210 USA
+2Rubenstein School of Environment & Natural Resources, University of Vermont, Burlington, Vermont 05405 USA
+3The Gund Institute for Environment, University of Vermont, Burlington, Vermont 05405 USA
+4Center for Macroecology, Evolution and Climate, The Natural History Museum of Denmark,University of Copenhagen, Copenhagen Ø
+DK-2100 Denmark
+Citation: Bennett, A. E. and A. T. Classen. 2020. Climate change influences mycorrhizal fungal –plant
+interactions, but conclusions are limited by geographical study bias. Ecology 101(4):e02978. 10.1002/ecy.
+2978
+Abstract. Climate change is altering the interactions among plants and soil organisms in
+ways that will alter the structure and function of ecosystems. We reviewed the literature anddeveloped a map of studies focused on how the three most common types of mycorrhizal fungi(arbuscular mycorrhizal [AM], ectomycorrhizal [EcM], and ericoid mycorrhizal [ErM] fungi)
+respond to elevated atmospheric carbon dioxide concentrations (eCO
+2), climatic warming, and
+changes in the distribution of precipitation. Broadly, we ask how do mycorrhizal fungi respondto climate change, how do these responses vary by fungal type, and how do mycorrhizal traitsinfluence plant adaptation, movement, or extinction in response to climatic change? First, we
+found that 92% of studies were conducted in the northern hemisphere, and plant host, ecosys-
+tem type and study location were only correlated with each other in the northern hemispherebecause studies across all mycorrhizal fungal types were only common in the northern hemi-
+sphere. Second, we show that temperature and rainfall variability had more variable effects
+than eCO
+2on mycorrhizal fungal structures, but these effects were context dependent. Third,
+while mycorrhizal fungal types vary in their responses to climate change, it appears that warm-ing leads to more variable responses in ectomycorrhizal than in arbuscular mycorrhizal fungi.
+Finally, we discuss common traits of mycorrhizal fungi that could aid in fungal and plant
+adaption to climate change. We posit that mycorrhizal fungi can buffer plant hosts againstextinction risk, they can facilitate or retard the dispersal success of plants moving away frompoor environments, and, by buffering host plants, they can enable host plant adaptation to
+new climates. All of these influences are, however, context dependent a finding that reflects the
+complex traits of mycorrhizal fungi as a group, the diversity of plant species they associate withand the variation in ecosystems in which they reside. Overall, while we point out many gaps inour understanding of the influence of climate changes on mycorrhizal fungi, we also highlight
+the large number of opportunities for researching plant and mycorrhizal fungal responses to
+and mitigation of climate changes.
+Key words: climate changes; ecosystems; elevated carbon dioxide; mycorrhizal fungi; plants; precipita-
+tion change; warming.
+INTRODUCTION
+Mycorrhizal fungi can regulate plant distribution and
+productivity and are expected to be important players inecosystem responses to, or mitigation of, climate change
+drivers (Classen et al. 2015). Mycorrhizal fungi are
+poised to have a large impact on ecosystem responses
+because they directly influence individual plant functionand indirectly impact processes such as plant dispersal
+and community interactions. For example, prior meta-
+analyses of one climate change driver, elevated atmo-spheric carbon dioxide concentrations (eCO
+2), found
+that eCO 2promoted mycorrhizal fungi (Treseder 2004,Manuscript received 27 June 2019; revised 22 November
+2019; accepted 5 December 2019. Corresponding Editor: Jason
+D. Hoeksema.
+5E-mail: bennett.1242@osu.edu
+Article e02978; page 1CONCEPTS & SYNTHESIS
+EMPHASIZING NEW IDEAS TO STIMULATE RESEARCH IN ECOLOGY
+Ecology , 101(4), 2020, e02978
+©2020 by the Ecological Society of America
+Alberton et al. 2005). However, whether this promotion
+translated to plant growth promotion was contextdependent and varied with mycorrhizal type (Albertonet al. 2005, Kivlin et al. 2013). Here, we (along with
+other authors; Mohan et al. 2014, Tedersoo and Bahram
+2019) highlight that none of these previous analysesexamined geographical variation among studies or myc-
+orrhizal fungal types.
+Mycorrhizal fungi are common on the landscape and
+associate with over 80% of plants in a diversity of man-
+aged and unmanaged ecosystems (Smith and Read
+2008). In fact, there is overwhelming observational andexperimental evidence that mycorrhizal fungi influence a
+variety of community traits and ecosystem func-
+tions, plant productivity and community composition(van der Heijden et al. 1998, Jiang et al. 2017), decompo-sition, and soil nutrient cycling (Langley et al. 2006,
+Rosling et al. 2016), soil microbial community composi-
+tion (Kyaschenko et al. 2017) and soil carbon stabiliza-tion, at both local and landscape scales (Clemmensen
+et al. 2013, Leifheit et al. 2014, Moore et al. 2015 a,
+2015ba,b, Fisher et al. 2016, Jackson et al. 2017). Here,
+we explore how the three most common mycorrhizal
+fungal types, arbuscular, ectomycorrhizal, and ericoid,
+are influenced by and will influence plant abilities toadapt to climate change.
+Like all organisms, mycorrhizal fungal groups have
+unique suites of traits (Table 1) that mediate the direct
+impact of climate change on mycorrhizal fungi (Tresederand Lennon 2015). For example, they vary in hyphal
+exploration type (reviewed in Agerer 2001, Helgason and
+Fitter 2009, Lilleskov et al. 2011, Peay et al. 2011), andthis variation is linked to root density (Bingham and
+Biondini 2009, Peay et al. 2011), disturbance, and nitro-
+gen availability (Lilleskov et al. 2011, Chen et al. 2018,Treseder et al. 2018) across mycorrhizal types and at the
+species level (Bukovska et al. 2016). Mycorrhizal fungal
+species also vary in extra-radical hyphal (ERH) density(Jakobsen et al. 1992, Duan et al. 2011) and turnover (re-viewed in Chagnon et al. 2013) all of which may be
+related to species and genotype level variation in hyphalfusion rates (Pepe et al. 2016). These traits, and others,
+are responsive to climatic change (Fernandez et al. 2017).For example, mycorrhizal fungi also vary in melanin con-tent (Wright et al. 1996), and increases in mycorrhizal
+fungal melanin have been linked to variation in water
+availability (Deveautour et al. 2019). Increased melanincan also reduce fungal decomposition (Fernandez et al.
+2016, Fernandez and Kennedy 2018) and potentially
+reduce carbon storage (Clemmensen et al. 2015), thuslikely feeding back to climate change. In addition, mycor-
+rhizal fungi possess genetic variation in helicase activity
+(Branco et al. 2017), known to promote cold tolerance infungi. Variation in mycorrhizal fungal traits can also cas-
+cade aboveground to alter plant-species-specific growth
+rates (Allen et al. 2003, Lopez-Garcia et al. 2014).
+Briefly, arbuscular mycorrhizal (AM) fungi form an
+obligate association with most herbaceous plant species,
+grasses, broad-leaf tree species and occasionally conifers
+such as Sequoia sempervirens . In return for carbon, AM
+fungi provide nutrients, water, and trace minerals to host
+plants. AM fungi are found in every plant habitat, but
+generally do not produce fruiting bodies, release sporesbelowground from hyphae and are thus thought to be rel-
+atively dispersal limited (Smith and Read 2008), although
+this may depend on soil disturbance and spore size (seediscussion in Mycorrhizal fungal responses to climatechange: knowledge and gaps). In contrast, both ectomyc-
+orrhizal (EcM) and ericoid mycorrhizal (ErM) fungi form
+fruiting bodies and often disperse propagules by wind.EcM fungi tend to form associations with a smaller pro-
+portion of plant species than AM fungi (Brundrett 2002),
+but their impact can scale to the landscape because theytend to associate with regionally dominant tree taxa (Stei-
+dinger et al. 2019). Like AM fungi, EcM and ErM fungi
+deliver nutrients and water to the host plant in exchangefor carbon. EcM fungi are thought to have a higher host
+plant specificity (associate with a smaller range of host
+plants) than AM fungi; while most ErM fungi associatewith a narrow group of plants, members of the Eri-
+caceae , that are commonly found in ecosystems thought
+to be most susceptible to climate and land-use change,
+TABLE 1. Traits that vary among the three mycorrhizal fungal types explored in this manuscript: arbuscular (AM),
+ectomycorrhizal (EcM), and ericoid (ErM) mycorrhizal fungi.
+Trait AM fungi EcM fungi ErM fungi
+Distribution /C25100% /C2530% /C255%
+Primary nutrient
+deliveredphosphorus nitrogen nitrogen
+External hyphal
+exploration typeunknown, density varies by species
+and distanceshort, medium, long-
+distanceunknown?
+Root colonization arum, Paris Hartig Net ericoid, arbutoid, monotropoid,
+cavendishioid
+Melanization spores, hyphae spores, hyphae hyphae
+Helicase activity yes yes unknown?
+Host abiotic tolerance
+promotedyes; greatest consistency yes unknown
+Note: Distribution estimates derived from Soudzilovskaia et al (2017), citations for external hyphal exploration type, melaniza-
+tion, helicase activity, and host tolerance are found in the text of the introduction.Article e02978; page 2 ALISON E. BENNETT AND AIM /C19EE T. CLASSEN Ecology, Vol. 101, No. 4CONCEPTS &S YNTHESISsuch as peatlands, heaths, and the Arctic (Fagundez
+2013). Unlike AM fungi (Davison et al. 2015), both ErMand EcM fungi are not found in all habitats, and their dis-tributions are relatively limited by their host plants and/
+or abiotic conditions (Soudzilovskaia et al. 2017). There
+is also some overlap between ErM, EcM, and AM fungias some plant hosts associate with multiple fungal types.
+Here, we reviewed the geographic distribution of liter-
+ature exploring how diverse groups of mycorrhizal fungirespond to elevated atmospheric carbon dioxide concen-
+trations (eCO
+2), climatic warming, and changes in the
+distribution of precipitation and highlight patterns inthe data as well as gaps in the literature. We end our
+review with a discussion of how mycorrhizal fungi, and
+their response to climate change, may influence plantresponses to climate change via influencing plant adap-tation, extinction, or dispersal.
+M
+YCORRHIZAL FUNGAL RESPONSES TO CLIMATE CHANGE :
+KNOWLEDGE AND GAPS
+Mycorrhizal fungal traits should influence their
+response to climatic changes (eCO 2, warming, shifting
+precipitation), yet to date there is no comprehensive syn-thesis on how broad groups of mycorrhizal fungi may
+respond to different climate drivers. Here we synthesized
+t h el i t e r a t u r et od e t e r m i n et h ei n f l u e n c eo fc l i m a t echanges on AM, ErM, and EcM fungi, and identifyknowledge gaps or biases in study geographies as well as
+research areas and approaches (File S1). We collected and
+synthesized data from the literature on the influence ofwarming, increased atmospheric carbon dioxide concen-
+trations ([eCO
+2]), and increased variability in precipita-
+tion on mycorrhizal fungi from manipulative studies. Wefocused our search on precipitation variation and not pre-
+cipitation change because recent studies have shown that
+rainfall variability and extreme events, not solelyincreased or decreased rainfall, are predicted with climatechanges (Knapp et al. 2015). We conducted four Web of
+Science literature searches. Here we focus on unmanaged
+ecosystems, thus each of the searches excluded studies inagricultural field systems (NOT “agro* ”NOT “agri* ”).
+The first search, 13 October 2017, focused on warming
+(TOPIC “warming ”AND “mycorrhiza* ”) and resulted in
+251 studies. The second search, (TOPIC “atmospheric
+CO2 ”AND “mycorrhiza* ”NOT “bioenergy ”) resulted
+in 458 papers, the third search (TOPIC “mycor-
+rhiza* ”AND “extreme events ”)r e s u l t e di n2 7p a p e r s ,
+and the fourth (TOPIC “mycorrhiza* ”AND “precipita-
+tion distribution ”) resulted in 38 papers. We removed
+duplicate papers and distilled the remaining papers downto 150 that met our criteria. We recorded whether, at the
+last time point of data collection, there was a negative,
+positive, or neutral influence of the climate change driveron root colonization, extra-radical hyphae (ERH) in soil,
+biomass (most frequently measured using PLFAs), root
+community composition (measured with molecular tools),and soil community composition (typically measured withmolecular tools but occasionally measured with spores or
+sporocarps). We determined whether the value was nega-tive, positive, or neutral by recording whether there was asignificant difference between treatments recorded in the
+paper (nonsignificant differences were recorded as neu-
+tral), and, if significant, which direction (positive or nega-tive). We recorded the GPS coordinates for the
+geographic study location or where the inocula used in
+the study was collected (if the study was conducted in agreenhouse or in a pot). We also collected data on the
+type of mycorrhizal fungi (AMF, EcMF, ErMF), plant
+host(s) and family, host life history characteristics, habitat(forest, grassland, heath [defined as arctic, alpine, and
+other habitats dominated by ericaceous species], shrub-
+land, desert, aquatic, or arable), type and/or species ofinocula, and study location (field, greenhouse, or lab).Altogether we collected 300 data lines for mycorrhizal
+responses to eCO
+2, 152 data lines for warming, and 19
+data lines for variability in precipitation (Data S1).
+We formed three hypotheses. Similar to other studies
+exploring plant ecology, we expect most studies to be
+located in the northern hemisphere (according to asearch on Web of Science on 12 October 2018, 19% of
+plant ecology studies were conducted in the northern
+hemisphere) and in North America and Europe (77%from the same search above). This has been posited intwo other recent reviews as well (Mohan et al. 2014, Ted-
+ersoo and Bahram 2019), but not displayed as in this
+paper. Second, we expect experimental warming andprecipitation variability studies to have a larger direct
+(negative or positive) impact on mycorrhizal fungi across
+groups than eCO
+2. We hypothesize that temperature and
+water availability directly impact soil fungi, whereas
+eCO 2impacts fungi indirectly via shifts in plant inputs.
+Finally, we expect mycorrhizal fungi that occur inregions most likely impacted by climatic change, e.g.,
+ecological range boundaries, arctic ecosystems, to have a
+stronger positive or negative response to climate changeexperiments then those in less impacted regions.
+Study location
+The location of studies on climate changes and mycor-
+rhizal fungi (and whether or not studies were in regionslikely to experience the greatest climate change impacts)
+and mycorrhizal fungal type will influence our ability as
+a scientific community to generalize mycorrhizal fungalresponses to future climate changes. Yet, as hypothe-
+sized, the majority of studies we identified were con-
+ducted in the northern hemisphere, particularly in NorthAmerica and Europe (Fig. 1). Only 35 experiments fromthree papers (Baon et al. 1994, Plett et al. 2015, Hortal
+et al. 2016) were conducted in the southern hemisphere,
+and most of these data were collected by one groupworking on EcM fungi (Hawkesbury, New South Wales,
+Australia; Plett et al. 2015, Hortal et al. 2016). Studies
+of ErM and EcM fungi were mostly conducted in thenorthern latitudes of the northern hemisphere. Not aApril 2020 MYCORRHIZAE CLIMATE STUDY GEOGRAPHY BIAS Article e02978; page 3CONCEPTS &S YNTHESISsingle study was conducted in or using material from
+Africa, South America, or south Asia, leaving an exten-
+sive knowledge gap about how climate changes may
+influence these organisms in areas of the world expectedto be impacted most from climate changes. Further,
+ErM fungi were by far the least studied group across all
+climate change factors: we identified 11 lines of data col-lected from six climate change studies (warming, eCO
+2;
+Olsrud et al. 2004, 2010, Arndal et al. 2013, Geml et al.
+2015, Asemaninejad et al. 2017, Binet et al. 2017), andall but one (Binet et al. 2017) were conducted in arcticNorth America or Scandinavia. AM and EcM fungi
+studies were more common, but study location (field or
+greenhouse) varied (Appendix S1: Fig. S1). Most warm-ing studies exploring AM (61%) and EcM (75%) fungal
+responses occurred in the field, whereas, eCO
+2studies
+were more common in greenhouses: only 36% of AMand 31% of EcM studies were conducted in the field.
+Our analysis is, however, biased by English language
+papers found using Web of Science, and thus may under-represent studies in non-English language journals.
+However, the paucity of studies on climate change
+impacts on mycorrhizal fungi in non-northern latitudeswas striking.
+Plant host and ecosystem types studied were also
+biased in our review; the majority of studies across all
+mycorrhizal types were conducted on perennial plants(81% of eCO
+2studies, 86% of warming studies, and 74%
+of rainfall variability studies). This is not entirely sur-
+prising given that EcM and ErM associate predomi-nately with perennial plants, and long-term field studies
+generally focus on perennial plants. However, even stud-
+ies on AM fungi, which often associate with annualplant species, were predominantly conducted on peren-
+nials (62% of eCO
+2studies, 85% of warming studies, and71% of rainfall variability studies, Appendix S1:
+Fig. S2A,B). Also, only 3% of the studies were con-
+ducted on C 4plants (Appendix S1: Fig. S2C,D). This is
+concerning for a number of reasons: first, annual plantscolonize disturbed habitats and begin succession, thus
+this research gap will limit our knowledge of the impact
+of climate changes on young and disturbance-proneecosystems and early colonizing plants including inva-
+sive species. Second, understanding the AM fungal –C
+4
+plant relationship may be crucial for climate change mit-
+igation, because C 4plants often dominate the tropics
+and subtropics where the rate and magnitude of climate
+changes are often predicted to be greatest. C 4plants are
+known to rely heavily on AM fungi (reviewed in Bennettet al. 2013) and tolerate higher temperatures, but do not
+respond as positively to eCO
+2(Antoninka et al. 2009).
+By contrast, C 3plants may have a higher photosynthesis
+rate that does not saturate under tested eCO 2levels.
+Thus, an overrepresentation of perennial and C 3plants
+associated with AM fungi in research will limit ourunderstanding of AM fungal responses to climate
+changes and their role in climate change mitigation.
+Most AM fungal studies were conducted in grasslands(55%), all EcM studies were conducted in forests, and allErM studies we found were conducted in heaths
+(Appendix S1: Fig. S3). Few studies were conducted in
+deserts (Clark et al. 2009, Bell et al. 2014) and non-heathshrublands (Klironomos et al. 1998, Treseder et al. 2003,
+Allen et al. 2005). These underrepresented ecosystems
+can have diverse AM fungal communities and rare andendemic ectomycorrhizal fungi (Smith and Read 2008),
+and thus should be included in research exploring myc-
+orrhizal responses to global change.
+Many studies did not measure the direct impact of cli-
+mate changes on mycorrhizal fungi and mycorrhizal
+1
+53
+FIG. 1. Distribution of studies exploring mycorrhizal responses to climate change overlaid on a map of projected temperature
+change in 2050 (Scenario 2.6, IPCC). There are 452 studies across all fungal (ErM, EcM, AM) types, and climate change factors
+investigated (warming, eCO 2) represented on the map.Article e02978; page 4 ALISON E. BENNETT AND AIM /C19EE T. CLASSEN Ecology, Vol. 101, No. 4CONCEPTS &S YNTHESIStraits. Most studies (60%) measured root colonization
+(Appendix S1: Fig. S4). However, mycorrhizal fungi arelikely to experience climate changes both directly (viaabiotic changes in the soil compartment) and indirectly
+(via their host plants in the root compartment; Millar
+and Bennett 2016). Combining AM and EcM results, weidentified 26 papers that explored direct and indirect
+eCO
+2, warming, and altered precipitation effects (see
+Data S1), and identified only three studies examiningroot colonization, ERH, and spore production (Klirono-
+mos et al. 1996, Antoninka et al. 2009, Yang et al. 2013).
+Only a small proportion of studies measured fungi out-side the root: 19% examined ERH and 5% examined
+spores or sporocarps. Measuring only one compart-
+ment ’s response limits our understanding of fungal
+responses to climatic changes, especially fungal fitnessand biomass production.
+Studies conducted under different experimental condi-
+tions, field or greenhouse, show variable responses tothe impact of eCO
+2on mycorrhizal fungi (Fig. 2). Only
+three studies (all conducted in the field) examined ErM
+fungi. We found that 25% of field manipulations show apositive influence of eCO
+2on EcM fungal root coloniza-
+tion, whereas 40% of greenhouse studies show a non-
+neutral (positive or negative) influence of eCO 2on root
+colonization. Only four EcM fungal studies examinedERH in the field, but 20% of greenhouse studies showed
+a positive influence of eCO
+2on ERH. AM fungal studies
+measuring fungi in both root and soil compartmentsfind that root colonization by AM fungi was resilient in
+the face of eCO
+2as only neutral responses (non-positive
+or non-negative effects) have been reported for AM fun-gal root colonization under eCO
+2in the field. However,
+looking more broadly across all the studies (not just
+those that measured both root colonization and ERH)we do not observe this negative/neutral pattern: 36% of
+field studies and 45% of greenhouse studies show a posi-
+tive influence of eCO
+2on root colonization by AM
+fungi. Based on studies examining both root coloniza-tion and ERH, AM fungi in the soil compartment may
+be more strongly influenced by eCO
+2, although these
+effects appear stronger under controlled conditions. Thisstrong eCO
+2driver of AMF response is supported when
+we look across all studies: 25% in the field and 60% in
+the greenhouse show a positive influence of eCO 2on
+AM fungal ERH. Thus, more studies measuring both
+root colonization and ERH need to be conducted to
+understand the response of ecosystems to eCO 2.
+Climate change type
+As predicted by the second hypothesis (both increased
+temperature and rainfall variability should have a
+greater range (more positive or negative) of effects onmycorrhizal fungi than under ambient conditions), we
+found that the effect range (i.e., amount of variability) of
+warming effects on mycorrhizal fungi was broader thanfor eCO
+2. However, the broadness of the effect rangewas context dependent. Due to the few studies on rain-
+fall variability, we only discuss eCO 2and warming stud-
+ies. When looking across mycorrhizal measurements, wefound little evidence to support our hypothesis: warm-
+ing promoted non-neutral (positive or negative) effects
+in 42% of AM fungal, 63% of EcM fungal, and 43% ofErM fungal studies as compared to 44% of AM fungal,
+35% of EcM fungal, and 50% of ErM fungal eCO
+2stud-
+ies. However, when we examined individual measures ofmycorrhizal fungi, we found warming had a greater
+range of effects on fungi in both root and soil compart-
+ments. Studies measuring both colonization and ERHshowed stronger influences of warming on ERH, but
+mostly in the greenhouse and lab. However, few studies
+measured ERH in any environment limiting our conclu-sions. Given that temperature likely directly influencesERH, it should not be surprising to observe a more con-
+sistent influence of temperature on ERH.
+Despite the lack of data dedicated to explaining cli-
+mate influences on mycorrhizal fungi, we can gain clues
+by looking at the influence of both climate changes and
+mycorrhizal fungi on plant growth (often measured as atrait of mycorrhizal fungi). For example, across studies,
+mycorrhizal type and nitrogen availability are the pri-
+mary factors predicting eCO
+2fertilization of plants in
+climate change experiments (Terrer et al. 2016). In par-ticular, there were no differences due to nitrogen avail-
+ability for plants associated with EcM, but under low
+nitrogen availability plants associated with AM fungidid not increase growth in response to eCO
+2while AM
+fungal plants benefited from eCO 2under high nitrogen
+availability. This difference may be related to the stron-ger effects of eCO
+2on AM than EcM fungi.
+Mycorrhizal type
+In contrast to our third hypothesis, we found that
+EcM fungi had a more variable response to climatechanges than ErM or AM fungi. For example, as pre-
+sented above, overall EcM fungi were more likely to
+show a positive or negative response to warming (63%)than eCO
+2(35%). To further explore this pattern, we
+conducted a small meta-analysis of 11 AM and 7 EcM
+fungal studies that measured root colonization underelevated and ambient temperatures.
+For this limited meta-analysis, we used studies from a
+subset of papers collected for our literature review anddescribed above and in File S1. Studies used in the meta-
+analysis needed to measure root colonization in the
+greenhouse (due to limited field studies) by both AMfungi and EcM fungi, and provide means or lsmeans,standard deviations or standard errors, and sample sizes.
+Studies within papers were considered independent
+observations if they were conducted with different plantor mycorrhizal fungal species. We calculated Hedge ’sD
+for the difference in colonization between ambient and
+elevated temperatures, because of the small study num-bers, the means were continuous variables, and someApril 2020 MYCORRHIZAE CLIMATE STUDY GEOGRAPHY BIAS Article e02978; page 5CONCEPTS &S YNTHESISmeans equaled zero (eliminating the use of the log
+response ratio as a potential effect size).
+We analyzed variation in effect sizes using OpenMEE
+(Wallace et al. 2017). We ran a subgroup continuous ran-
+dom effects maximum likelihood model with mycor-
+rhizal type (AM or EcM fungi) as the subgroup. Thedata used in the meta-analysis are provided as a datasheet supplementary file (Data S2).
+Overall, we found there is a relatively strong positive
+effect of temperature on colonization by mycorrhizalfungi (mean Hedge ’sDestimate =0.829, 95%
+CI=0.258 –1.399, I
+2=68%) driven by a strong positive
+effect on colonization by AM fungi (mean Hedge ’sD
+estimate =1.369, 95% CI =0.729 –2.009, I2=48%).
+There was little overall influence of temperature on colo-
+nization by EcM fungi (mean Hedge ’sDesti-
+mate=/C00.005, 95% CI =/C00.667 –0.656, I2=53%),
+partly due to the range of effects on EcM fungi from
+positive to negative while the range of effects for AM
+fungi ranged from neutral to positive. There were notenough independent studies to determine what other
+factors might have contributed to the greater variation
+in EcM fungi root colonization response as compared toAM fungi.
+Contrary to our expectations, we found many gaps in
+our understanding of how climatic changes influencemycorrhizal fungi. There was only a correlation between
+the ecosystem type of mycorrhizal fungal host plants
+and different mycorrhizal fungal types in the northernhemisphere, where most of the studies reviewed in this
+paper were conducted. In addition, our knowledge gaps
+about ErM fungi and rainfall variability likely limit ourability to predict mycorrhizal fungal responses to climatechanges. Also, while both temperature and rainfall vari-
+ability have greater effects on mycorrhizal fungi, these
+effects are context dependent and will require greaterstudy before we can confidently make predictions about
+their impacts. Finally, we incorrectly hypothesized that
+mycorrhizal growing season length or host plant typewould influence the likelihood of climate change impacts
+on mycorrhizal fungi. Instead, changes driven by direct
+fungal structure exposure to climate changes, particu-larly warming, appear to be a stronger predictor of cli-mate change effects on mycorrhizal fungi.
+H
+OW MYCORRHIZAL FUNGAL TRAITS AND THEIR RESPONSE TO
+CLIMATE CHANGES MAY IMPACT A PLANT 'S ABILITY TO ADAPT ,
+MOVE ,OR GO EXTINCT UNDER GLOBAL CHANGE
+Our review reveals large variation in the frequency
+that different climate change impacts, warming, eCO 2,
+changing precipitation, on mycorrhizal fungi have beenMycorrhizal typeAMF EcMFStudies (%)
+020406080100
+AMF EcMF ErMF
+Field studies Greenhouse studiesA
+AMF EcMF ErMF
+Mycorrhizal typeAMF EcMF ErMFStudies (%)
+020406080100
+Field studies Greenhouse studiesBN = 50 N = 89 N = 47 N = 107 N = 4
+N = 63 N = 34 N = 29 N = 9 N = 5 N = 1
+FIG. 2. Range of effects (negative [black], neutral [light gray], positive [white]) of climate changes (A) CO 2and (B) warming on
+the three mycorrhizal fungal types (arbuscular mycorrhizal fungi (AMF), ectomycorrhizal fungi (EcMF), an ericoid mycorrhizal
+fungi (ErMF) and by study location (greenhouse or field).Article e02978; page 6 ALISON E. BENNETT AND AIM /C19EE T. CLASSEN Ecology, Vol. 101, No. 4CONCEPTS &S YNTHESISstudied. This same pattern holds when we examine inter-
+actions between plants and mycorrhizal fungi. A meta-analysis of fungal symbiont influences on plantresponses to climate changes found drought has been
+studied two to four times more frequently than other cli-
+mate drivers (e.g., eCO
+2, warming; Kivlin et al. 2013). In
+fact, we conducted a Web of Science search (November
+2017) on “drought ”and “mycorrhiza* ”(not “agro* ”or
+“agri* ”) resulting in over 62,000 papers. We suspect this
+bias is in part because drought can be most easily
+manipulated in a short (experimental) time scale com-
+pared to other climate drivers (e.g., warming, eCO 2).
+Given their different life histories and distributions,
+mycorrhizal fungi should have different influences on
+plant adaptation to climate change. Plants facing climatechange can either adapt, disperse to a more suitablehabitat, or go extinct. Mycorrhizal fungi could aid or
+limit these strategies, and we expect that different mycor-
+rhizal fungal types will have traits or limitations that willcause them to contribute differently to these strategies.
+Mycorrhizal colonization may buffer plants from
+extinction from climate change
+Mycorrhizal fungi can increase plant tolerance to abi-
+otic stresses associated with climate changes, which
+should decrease plant extinction risk and provide timefor plant dispersal and adaptation. For example, AMfungi can alleviate the negative consequences of rainfall
+variability (Mohan et al. 2014), due to improved water
+flow (Delavaux et al. 2017) via increased water use effi-ciency (Andreo-Jimenez et al. 2015). Increased water
+uptake and water use efficiency in AM fungal host
+plants can be accomplished by using hyphae to increasesurface area for water absorption (Auge 2001), increased
+access to small soil pores (Smith and Read 2008),
+improved apoplastic water flow (Barzana et al. 2012),water uptake via fungal water channels (Maurel et al.2015), increased stomatal conductance in host plants
+(Auge et al. 2015), altered host gene expression of
+drought related genes encoding plant aquaporins (Mau-rel et al. 2015), and promotion of further AM fungal col-
+onization (Andreo-Jimenez et al. 2015). Greater rainfall
+variability may alter fungal community compositionthrough the loss of mycorrhizal fungal species only toler-
+ant of drought or increased moisture leaving only more
+plastic fungi that can tolerate both extremes but may ormay not benefit plant partners, which may feedback to
+alter plant productivity or plant tolerance to change. For
+example, shifts in seasonality coupled with drought canalter both the abundance and community compositionof mycorrhizal fungi (Cregger et al. 2012), which in turn,
+impacts plant growth (Lopez-Garcia et al. 2014). Thus,
+mycorrhizal fungi can help plants tolerate rainfall vari-ability.
+Relative to plants and their roots, mycorrhizal fungi
+tend to have a wider temperature tolerance, which mayreflect their ability to produce protective compoundssuch as trehalose (Lekberg et al. 2011, Lenoir et al.
+2016). However, mycorrhizal temperature tolerances dif-fer among mycorrhizal type (Kilpelainen et al. 2016)and habitat (Antunes et al. 2011); (but see Bunn et al.
+2009), and this variation can benefit host plants. AM
+fungal temperature tolerance could promote greater hosttolerance of warming (Bunn et al. 2009, Antunes et al.
+2011). Warming can promote both EcM and growth of
+EcM associated plants in the field (Deslippe et al. 2011).Warming can also influence host plant associations in
+ways that alter mycorrhizal fungal communities, and
+these host driven shifts in mycorrhizal fungi, coupledwith changes in soil nutrient availability, could lead to
+significant changes in host plant success especially at the
+warm edges of plant ranges (Fernandez et al. 2017).
+Unlike the other two climate drivers discussed here,
+warming and precipitation change, eCO
+2may not stress
+plant –mycorrhizal-fungae interactions. A recent study
+highlighted that, depending on mycorrhizal fungal typeand nutrient availability, mycorrhizal colonization could
+boost the impact of eCO
+2on plant production via myc-
+orrhizal alleviation of nutrient limitation (Terrer et al.2016). In low nutrient ecosystems, only EcM fungi sig-
+nificantly stimulated biomass production under eCO
+2,
+whereas in high nutrient systems both EcM and AMfungi stimulated biomass production under eCO
+2. This
+result may also be biased by geographic location as most
+eCO 2experiments occurred in northern latitudes. Thus
+overall, eCO 2should increase growth of mycorrhizal
+fungal associated host plants and could promote toler-
+ance of other climate change related stresses (Norby and
+Zak 2011, Solly et al. 2017).
+While there have been few direct comparisons, there is
+evidence that mycorrhizal fungal types vary in how
+much they buffer plant stress. For example, a meta-anal-ysis found that EcM fungal associated plants had more
+context dependent responses to climate change than AM
+fungal associated plants (Kivlin et al. 2013). Overall,given their ability to promote abiotic stress tolerance,mycorrhizal fungi should promote tolerance to climate
+changes (Kivlin et al. 2013, Mohan et al. 2014), but the
+type of mycorrhizal fungi and other stresses will likelymodify the degree of tolerance. This overall promotion
+of tolerance to climate changes should reduce plant
+extinction even in less than optimal environments, butthis pattern may be biased toward AM fungi.
+Potential influence of mycorrhizal fungi on plant dispersal
+under climate change
+As climates change, plants may need to disperse to
+more suitable habitats, and their dispersal success may
+depend on mycorrhizal partners (Peay 2016, Wurzburger
+et al. 2017). We expect that differences in mycorrhizalfungal distribution and dispersal to influence their host
+plant dispersal. For example, the relatively ubiquitous
+distribution of AM fungi may comparatively reduceplant dispersal limitations. AM fungi may be dispersalApril 2020 MYCORRHIZAE CLIMATE STUDY GEOGRAPHY BIAS Article e02978; page 7CONCEPTS &S YNTHESISlimited, although spores can be dispersed by wind (Kiv-
+lin et al. 2014) and animals (Mangan and Adler 2002,Nielsen et al. 2016), but these dispersal forms may favordifferent fungal groups (e.g., small wind-dispersed
+groups or those that form sporocarps), which likely
+influences community composition, which in turn, influ-ences plant communities (Mangan and Adler 2002).
+However, the presence of any AM fungus, even if not the
+perfect partner, should allow AM fungal host plants awider dispersal range. For example, AM fungal associa-
+tions have been seen in two extreme examples of plant
+dispersal: invasive species (Reinhart and Callaway 2006)and range expanding species (van Grunsven et al. 2014).
+Thus, we do not expect AM fungi to limit plant disper-
+sal.
+In contrast to AM fungi, lack of EcM fungi can limit
+plant dispersal. For example, work on invasive pines
+clearly shows invasion can be limited by EcM dispersal
+(e.g., Nunez et al. 2009). Shrubs are expanding in theArctic under warming and this expansion is coupled
+with changes in nutrient cycling and ErM and EcM
+community compositions (Timling et al. 2012, Gemlet al. 2016). The EcM fungi in the Arctic tend to be cos-
+mopolitan and can grow at very low temperatures, thus
+shifts with warming may reduce the cold-tolerant cos-mopolitan fungi and alter this community ’s ability to
+facilitate changes with warming (Timling and Taylor
+2012). For example, many studies exploring warming in
+the Arctic find that EcM species of Russula increasedwith warming while other species decline, which could
+feedback to impact plant growth over time (Deslippe
+et al. 2011, 2012, Geml et al. 2016). However, when EcMfungi are present warming may promote EcM fungal
+and shrub expansion (Deslippe et al. 2011, Solly et al.
+2017). In addition to lack of inocula, dispersal by Erica-ceous plants was hindered by their environmental abiotic
+conditions. Yet, under the right abiotic conditions, such
+as high soil moisture, EcM and ErM fungi respondquickly to warming with significant shifts in their com-munity composition (Geml et al. 2016). As a result, we
+can expect faster dispersal by plants hosting AM fungi
+in response to climate changes than host plants of ErMor EcM fungi, but the specificity of fungal associations
+and the shifts in community composition described
+above across all mycorrhizal fungal types may limitplant productivity in new environments.
+Mycorrhizal fungi may promote adaptation of host plants
+We expect all three mycorrhizal types to increase the
+likelihood of plant adaptation to climate changes. Inparticular, the promotion of stress tolerance by mycor-
+rhizal fungi should allow temporal space for plant adap-
+tation to climate changes. As a result, we expect thatmycorrhizal fungi act as a buffer for plants that find
+themselves in environments altered by climate change,
+thereby increasing their “niche ”(Peay 2016, Gerz et al.
+2018). Under conditions where environmental variationis common, this “buffering ”could allow plants to
+increase their fitness in suboptimal years; however, this“buffering ”could become crucial when climate changes
+faster than plants can disperse or adapt to their new
+environment. If mycorrhizal fungi buffer plants against
+climate changes, then we would expect overall reducedrates of plant extinction and greater prevalence of adap-
+tation in affected environments than expected when we
+do not account for mycorrhizal fungi. Specifically, itcould allow plant species the time needed to adapt to
+their new environmental conditions.
+C
+ONCLUSIONS
+Here, we highlighted the importance of examining both
+the response of mycorrhizal fungi and the response of
+plants associated with mycorrhizal fungi to climate
+changes; however, the vast majority of studies have, todate, focused on the interaction between these two groups
+of organisms. As a result, we do not know if the responses
+of mycorrhizal fungi themselves to future climate changeswill limit their promotion of plant tolerance to those same
+climate changes. Climate changes could also influence dis-
+persal of fungi thereby limiting plant dispersal, and inother cases, we could see phenological shifts in develop-
+ment of fungi and plants that could lead to mismatches
+that could limit plant productivity and ecosystem services.Some studies separating influences on plants and fungihave pioneered this area of research (Barrett et al. 2014),
+but there are many opportunities for increasing our
+understanding of both plant and mycorrhizal fungalresponses to climate changes.
+ACKNOWLEDGMENTS
+We thank Jarlath O ’Neil-Dunne and the Spatial Analysis
+Laboratory at UVM for mapping our mycorrhizal distributionsunder warming. The A. T. Classen lab is supported by the U.S.Department of Energy, Office of Science, Office of Biologicaland Environmental Research, Terrestrial Ecosystem SciencesProgram under Award Number DE-SC0010562 and the Carls-berg Foundation. The A. E. Bennett lab is supported by theOhio State University. We thank Philip Smith, Kenna Rew-castle, and two anonymous reviewers for comments thatimproved the manuscript.
+L
+ITERATURE CITED
+Agerer, R. 2001. Exploration types of ectomycorrhizae: A pro-
+posal to classify ectomycorrhizal mycelial systems accordingto their patterns of differentiation and putative ecologicalimportance. Mycorrhiza 11:107 –114.
+Alberton, O., T. W . Kuyper, and A. Gorissen. 2005. Taking
+mycocentrism seriously: Mycorrhizal fungal and plantresponses to elevated CO
+2. New Phytologist 167:859 –868.
+Allen, E. B., M. E. Allen, L. Egerton-Warburton, L. Corkidi,
+and A. Gomez-Pompa. 2003. Impacts of early- and late-seralmycorrhizae during restoration in seasonal tropical forest,Mexico. Ecological Applications 13:1701 –1717.
+Allen, M. F., J. N. Klironomos, K. K. Treseder, and W . C.
+Oechel. 2005. Responses of soil biota to elevated CO
+2in a
+chaparral ecosystem. Ecological Applications 15:1701 –1711.Article e02978; page 8 ALISON E. BENNETT AND AIM /C19EE T. CLASSEN Ecology, Vol. 101, No. 4CONCEPTS &S YNTHESISAndreo-Jimenez, B., C. Ruyter-Spira, H. J. Bouwmeester, and J.
+A. Lopez-Raez. 2015. Ecological relevance of strigolactones
+in nutrient uptake and other abiotic stresses, and in plant-mi-
+crobe interactions below-ground. Plant and Soil 394:1 –19.
+Antoninka, A., J. E. Wolf, M. Bowker, A. T. Classen, and N. C.
+Johnson. 2009. Linking above- and belowground responsesto global change at community and ecosystem scales. GlobalChange Biology 15:914 –929.
+Antunes, P . M., A. M. Koch, J. B. Morton, M. C. Rillig, and J.
+N. Klironomos. 2011. Evidence for functional divergence inarbuscular mycorrhizal fungi from contrasting climatic ori-gins. New Phytologist 189:507 –514.
+Arndal, M. F., M. P . Merrild, A. Michelsen, I. K. Schmidt, T.
+N. Mikkelsen, and C. Beier. 2013. Net root growth and nutri-ent acquisition in response to predicted climate change in twocontrasting heathland species. Plant and Soil 369:615 –629.
+Asemaninejad, A., R. G. Thorn, and Z. Lindo. 2017. Experimen-
+tal climate change modifies degradative succession in borealpeatland fungal communities. Microbial Ecology 73:521 –531.
+Auge, R. M. 2001. Water relations, drought and vesicular-ar-
+buscular mycorrhizal symbiosis. Mycorrhiza 11:3 –42.
+Auge, R. M., H. D. Toler, and A. M. Saxton. 2015. Arbuscular
+mycorrhizal symbiosis alters stomatal conductance of hostplants more under drought than under amply watered condi-tions: a meta-analysis. Mycorrhiza 25:13 –24.
+Baon, J. B., S. E. Smith, and A. M. Alston. 1994. Phosphorus
+uptake and growth of barley as affected by soil temperatureand mycorrhizal infection. Journal of Plant Nutrition17:479 –492.
+Barrett, G., C. D. Campbell, and A. Hodge. 2014. The direct
+response of the external mycelium of arbuscular mycorrhizalfungi to temperature and the implications for nutrient trans-fer. Soil Biology & Biochemistry 78:109 –117.
+Barzana, G., R. Aroca, J. A. Paz, F. Chaumont, M. C. Marti-
+nez-Ballesta, M. Carvajal, and J. M. Ruiz-Lozano. 2012.Arbuscular mycorrhizal symbiosis increases relative apoplas-tic water flow in roots of the host plant under both well-wa-tered and drought stress conditions. Annals of Botany109:1009 –1017.
+Bell, C. W ., D. T. Tissue, M. E. Loik, M. D. Wallenstein, V .
+Acosta-Martinez, R. A. Erickson, and J. C. Zak. 2014. Soilmicrobial and nutrient responses to 7years of seasonallyaltered precipitation in a Chihuahuan Desert grassland. Glo-bal Change Biology 20:1657 –1673.
+Bennett, A. E., T. J. Daniell, and P . J. White. 2013. Benefits of
+breeding crops for yield response to soil organisms. Pages 17 –
+27inF. J. de Bruijn, editor. Molecular microbial biology of
+the rhizosphere. Wiley-Blackwell, Hoboken, New Jersey,USA.
+Binet, P ., S. Rouifed, V . E. J. Jassey, M. L. Toussaint, and G.
+Chiapusio. 2017. Experimental climate warming alters therelationship between fungal root symbiosis and Sphagnumlitter phenolics in two peatland microhabitats. Soil Biology &Biochemistry 105:153 –161.
+Bingham, M. A., and M. Biondini. 2009. Mycorrhizal hyphal
+length as a function of plant community richness and compo-sition in restored northern tallgrass prairies (USA). Range-
+land Ecology & Management 62:60 –67.
+Branco, S., et al. 2017. Continental-level population differentia-
+tion and environmental adaptation in the mushroom Suillus
+brevipes . Molecular Ecology 26:2063 –2076.
+Brundrett, M. C. 2002. Coevolution of roots and mycorrhizas
+of land plants. New Phytologist 154:275 –304.
+Bukovska, P ., M. Gryndler, H. Gryndlerova, D. Puschel, and J.
+Jansa. 2016. Organic nitrogen-driven stimulation of arbuscu-lar mycorrhizal fungal hyphae correlates with abundance ofammonia oxidizers. Frontiers in Microbiology 7:15.Bunn, R., Y . Lekberg, and C. Zabinski. 2009. Arbuscular mycor-
+rhizal fungi ameliorate temperature stress in thermophilic
+plants. Ecology 90:1378 –1388.
+Chagnon, P .-L., R. L. Bradley, H. Maherali, and J. N. Klirono-
+mos. 2013. A trait-based framework to understand life his-tory of mycorrhizal fungi. Trends in Plant Science 18:484 –
+491.
+Chen, W . L., R. T. Koide, and D. M. Eissenstat. 2018. Root
+morphology and mycorrhizal type strongly influence rootproduction in nutrient hot spots of mixed forests. Journal ofEcology 106:148 –156.
+Clark, N. M., M. C. Rillig, and R. S. Nowak. 2009. Arbuscular
+mycorrhizal fungal abundance in the Mojave Desert: Sea-sonal dynamics and impacts of elevated CO
+2. Journal of Arid
+Environments 73:834 –843.
+Classen, A. T., M. K. Sundqvist, J. A. Henning, G. S. Newman,
+J. A. M. Moore, M. A. Cregger, L. C. Moorhead, and C. M.Patterson. 2015. Direct and indirect effects of climate changeon soil microbial and soil microbial-plant interactions: Whatlies ahead? Ecosphere 6:21.
+Clemmensen, K. E., A. Bahr, O. Ovaskainen, A. Dahlberg, A.
+Ekblad, H. Wallander, J. Stenlid, R. D. Finlay, D. A. Wardle,and B. D. Lindahl. 2013. Roots and associated fungi drivelong-term carbon sequestration in boreal forest. Science339:1615 –1618.
+Clemmensen, K. E., R. D. Finlay, A. Dahlberg, J. Stenlid, D. A.
+Wardle, and B. D. Lindahl. 2015. Carbon sequestration isrelated to mycorrhizal fungal community shifts during long-term succession in boreal forests. New Phytologist 205:1525 –
+1536.
+Cregger, M. A., C. W . Schadt, N. G. McDowell, W . T. Pockman,
+and A. T. Classen. 2012. Response of the soil microbial com-munity to changes in precipitation in a semiarid ecosystem.Applied and Environmental Microbiology 78:8587 –8594.
+Davison, J., et al. 2015. Global assessment of arbuscular mycor-
+rhizal fungus diversity reveals very low endemism. Science349:970 –973.
+Delavaux, C. S., L. M. Smith-Ramesh, and S. E. Kuebbing.
+2017. Beyond nutrients: a meta-analysis of the diverse effects
+of arbuscular mycorrhizal fungi on plants and soils. Ecology
+98:2111 –2119.
+Deslippe, J. R., M. Hartmann, W . W . Mohn, and S. W . Simard.
+2011. Long-term experimental manipulation of climate altersthe ectomycorrhizal community of Betula nana in Arctic tun-
+dra. Global Change Biology 17:1625 –1636.
+Deslippe, J. R., M. Hartmann, S. W . Simard, and W . W . Mohn.
+2012. Long-term warming alters the composition of Arcticsoil microbial communities. FEMS Microbiology Ecology82:303 –315.
+Deveautour, C., Chieppa, J., Nielsen, U. N., Boer, M. M.,
+Mitchell, C., Horn, S., Power, S. A., Guillen, A.,Bennett, A.E., and Powell, J. R 2019. Biogeography of arbuscular mycor-rhizal fungal spore traits along an aridity gradient, andresponses to experimental rainfall manipulation. FungalEcology. in press https://doi.org/10.1016/j.funeco.2019.100899
+Duan, T. Y ., E. Facelli, S. E. Smith, F . A. Smith, and Z. B. Nan.
+2011. Differential effects of soil disturbance and plant residue
+retention on function of arbuscular mycorrhizal (AM) symbio-sis are not reflected in colonization of roots or hyphal develop-ment in soil. Soil Biology & Biochemistry 43:571 –578.
+Fagundez, J. 2013. Heathlands confronting global change: dri-
+vers of biodiversity loss from past to future scenarios. Annalsof Botany 111:151 –172.
+Fernandez, C. W ., and P . G. Kennedy. 2018. Melanization of
+mycorrhizal fungal necromass structures microbial decom-poser communities. Journal of Ecology 106:468 –479.April 2020 MYCORRHIZAE CLIMATE STUDY GEOGRAPHY BIAS Article e02978; page 9CONCEPTS &S YNTHESISFernandez, C. W ., J. A. Langley, S. Chapman, M. L. McCorma-
+ck, and R. T. Koide. 2016. The decomposition of ectomycor-
+rhizal fungal necromass. Soil Biology & Biochemistry 93:38 –
+49.
+Fernandez, C. W ., N. H. Nguyen, A. Stefanski, Y . Han, S. E.
+Hobbie, R. A. Montgomery, P . B. Reich, and P . G. Kennedy.2017. Ectomycorrhizal fungal response to warming is linkedto poor host performance at the boreal-temperate ecotone.Global Change Biology 23:1598 –1609.
+Fisher, J. B., S. Sweeney, E. R. Brzostek, T. P . Evans, D. J. John-
+son, J. A. Myers, N. A. Bourg, A. T. Wolf, R. W . Howe, andR. P . Phillips. 2016. Tree-mycorrhizal associations detectedremotely from canopy spectral properties. Global ChangeBiology 22:2596 –2607.
+Geml, J., L. N. Morgado, T. A. Semenova, J. M. Welker, M. D.
+Walker, and E. Smets. 2015. Long-term warming alters rich-ness and composition of taxonomic and functional groups ofarctic fungi. FEMS Microbiology Ecology 91:13.
+Geml, J., T. A. Semenova, L. N. Morgado, and J. M. Welker.
+2016. Changes in composition and abundance of functional
+groups of arctic fungi in response to long-term summer
+warming. Biology Letters 12:20160503.
+Gerz, M., C. G. Bueno, W . A. Ozinga, M. Zobel, and M.
+Moora. 2018. Niche differentiation and expansion of plantspecies are associated with mycorrhizal symbiosis. Journal ofEcology 106:254 –264.
+van Grunsven, R. H. A., T. W . Yuwati, G. A. Kowalchuk, W . H.
+van der Putten, and E. M. Veenendaal. 2014. The northwardshifting neophyte Tragopogon dubius is just as effective in
+forming mycorrhizal associations as the native T. pratensis .
+Plant Ecology & Diversity 7:533 –539.
+van der Heijden, M. G. A., J. N. Klironomos, M. Ursic, P .
+Moutoglis, R. Streitwolf-Engel, T. Boller, A. Wiemken, and I.R. Sanders. 1998. Mycorrhizal fungal diversity determinesplant biodiversity, ecosystem variability and productivity.Nature 396:69 –72.
+Helgason, T., and A. H. Fitter. 2009. Natural selection and the
+evolutionary ecology of the arbuscular mycorrhizal fungi(Phylum Glomeromycota). Journal of Experimental Botany
+60:2465 –2480.
+Hortal, S., J. R. Powell, J. M. Plett, A. Simonin, and I. C.
+Anderson. 2016. Intraspecific competition between ectomyc-orrhizal Pisolithus microcarpus isolates impacts plant and
+fungal performance under elevated CO
+2and temperature.
+FEMS Microbiology Ecology 92:11.
+Jackson, R. B., K. Lajtha, S. E. Crow, G. Hugelius, M. G. Kra-
+mer, and G. Pineiro. 2017. The ecology of soil carbon: Pools,vulnerabilities, and biotic and abiotic controls. AnnualReview of Ecology, Evolution, and Systematics 48(1):419 –
+445.
+Jakobsen, I., L. K. Abbott, and A. D. Robson. 1992. External
+hyphae of vesicular-arbuscular mycorrhizal fungi associatedwith Trifolium subterraneum L.1. Spread of hyphae andphosphorus inflow into roots. New Phytologist 120:371 –380.
+Jiang, J., J. A. M. Moore, A. Priyadarshi, and A. T. Classen.
+2017. Plant-mycorrhizal interactions mediate plant commu-nity coexistence by altering resource demand. Ecology
+98:187 –197.
+Kilpelainen, J., M. Vestberg, T. Repo, and T. Lehto. 2016.
+Arbuscular and ectomycorrhizal root colonisation and plantnutrition in soils exposed to freezing temperatures. Soil Biol-ogy & Biochemistry 99:85 –93.
+Kivlin, S. N., S. M. Emery, and J. A. Rudgers. 2013. Fungal
+symbionts alter plant responses to global change. AmericanJournal of Botany 100:1445 –1457.
+Kivlin, S. N., G. C. Winston, M. L. Goulden, and K. K. Trese-
+der. 2014. Environmental filtering affects soil fungalcommunity composition more than dispersal limitation at
+regional scales. Fungal Ecology 12:14 –25.
+Klironomos, J. N., M. C. Rillig, and M. F. Allen. 1996. Below-
+ground microbial and microfaunal responses to Artemisia tri-
+dentata grown under elevated atmospheric CO
+2. Functional
+Ecology 10:527 –534.
+Klironomos, J. N., M. Ursic, M. Rillig, and M. F. Allen. 1998.
+Interspecific differences in the response of arbuscular mycor-rhizal fungi to Artemisia tridentata grown under elevated
+atmospheric CO
+2. New Phytologist 138:599 –605.
+Knapp, A. K., D. L. Hoover, K. R. Wilcox, M. L. Avolio, S. E.
+Koerner, K. J. La Pierre, M. E. Loik, Y . Q. Luo, O. E. Sala,and M. D. Smith. 2015. Characterizing differences in precipi-tation regimes of extreme wet and dry years: implications forclimate change experiments. Global Change Biology21:2624 –2633.
+Kyaschenko, J., K. E. Clemmensen, E. Karltun, and B. D. Lin-
+dahl. 2017. Below-ground organic matter accumulation alonga boreal forest fertility gradient relates to guild interactionwithin fungal communities. Ecology Letters 20:1546 –1555.
+Langley, J. A., S. K. Chapman, and B. A. Hungate. 2006. Ecto-
+mycorrhizal colonization slows root decomposition: the post-mortem fungal legacy. Ecology Letters 9:955 –959.
+Leifheit, E. F., S. D. Veresoglou, A. Lehmann, E. K. Morris,
+and M. C. Rillig. 2014. Multiple factors influence the role ofarbuscular mycorrhizal fungi in soil aggregation —a meta-
+analysis. Plant and Soil 374:523 –537.
+Lekberg, Y ., J. Meadow, J. R. Rohr, D. Redecker, and C. A.
+Zabinski. 2011. Importance of dispersal and thermal environ-ment for mycorrhizal communities: lessons from YellowstoneNational Park. Ecology 92:1292 –1302.
+Lenoir, I., J. Fontaine, and A. L. H. Sahraoui. 2016. Arbuscular
+mycorrhizal fungal responses to abiotic stresses: A review.Phytochemistry 123:4 –15.
+Lilleskov, E. A., E. A. Hobbie, and T. R. Horton. 2011. Conser-
+vation of ectomycorrhizal fungi: exploring the linkagesbetween functional and taxonomic responses to anthro-pogenic N deposition. Fungal Ecology 4:174 –183.
+Lopez-Garcia, A., C. Azcon-Aguilar, and J. M. Barea. 2014.
+The interactions between plant life form and fungal traits of
+arbuscular mycorrhizal fungi determine the symbiotic com-munity. Oecologia 176:1075 –1086.
+Mangan, S. A., and G. H. Adler. 2002. Seasonal dispersal of
+arbuscular mycorrhizal fungi by spiny rats in a neotropicalforest. Oecologia 131:587 –597.
+Maurel, C., Y . Boursiac, D. T. Luu, V . Santoni, Z. Shahzad,
+and L. Verdoucq. 2015. Aquaporins in plants. PhysiologicalReviews 95:1321 –1358.
+Millar, N. S., and A. E. Bennett. 2016. Stressed out symbiotes:
+hypotheses for the influence of abiotic stress on arbuscularmycorrhizal fungi. Oecologia 182:625 –641.
+Mohan, J. E., et al. 2014. Mycorrhizal fungi mediation of terres-
+trial ecosystem responses to global change: mini-review. Fun-gal Ecology 10:3 –19.
+Moore, J. A. M., J. Jiang, C. M. Patterson, M. A. Mayes, G. S.
+Wang, and A. T. Classen. 2015 a. Interactions among roots,
+mycorrhizas and free-living microbial communities differen-
+tially impact soil carbon processes. Journal of Ecology
+103:1442 –1453.
+Moore, J. A. M., J. Jiang, W . M. Post, and A. T. Classen. 2015 b.
+Decomposition by ectomycorrhizal fungi alters soil carbonstorage in a simulation model. Ecosphere 6:1 –16.
+Nielsen, K. B., R. Kjoller, H. H. Bruun, T. K. Schnoor, and S.
+Rosendahl. 2016. Colonization of new land by arbuscularmycorrhizal fungi. Fungal Ecology 20:22 –29.
+Norby, R. J., and D. R. Zak. 2011. Ecological lessons from
+Free-Air CO2 Enrichment (FACE) experiments. AnnualArticle e02978; page 10 ALISON E. BENNETT AND AIM /C19EE T. CLASSEN Ecology, Vol. 101, No. 4CONCEPTS &S YNTHESISReview of Ecology, Evolution, and Systematics 42(42):181 –
+203.
+Nunez, M. A., T. R. Horton, and D. Simberloff. 2009. Lack of
+belowground mutualisms hinders Pinaceae invasions. Ecol-ogy 90:2352 –2359.
+Olsrud, M., J. M. Melillo, T. R. Christensen, A. Michelsen, H.
+Wallander, and P . A. Olsson. 2004. Response of ericoid myc-orrhizal colonization and functioning to global change fac-tors. New Phytologist 162:459 –469.
+Olsrud, M., B. A. Carlsson, B. M. Svensson, A. Michelsen, and
+J. M. Melillo. 2010. Responses of fungal root colonization,plant cover and leaf nutrients to long-term exposure to ele-vated atmospheric CO
+2and warming in a subarctic birch for-
+est understory. Global Change Biology 16:1820 –1829.
+Peay, K. G. 2016. The mutualistic niche: Mycorrhizal symbiosis
+and community dynamics. Annual Review of Ecology, Evolu-tion, and Systematics 47(47):143 –164.
+Peay, K. G., P . G. Kennedy, and T. D. Bruns. 2011. Rethinking
+ectomycorrhizal succession: are root density and hyphalexploration types drivers of spatial and temporal zonation?
+Fungal Ecology 4:233 –240.
+Pepe, A., M. Giovannetti, and C. Sbrana. 2016. Different levels
+of hyphal self-incompatibility modulate interconnectednessof mycorrhizal networks in three arbuscular mycorrhizalfungi within the Glomeraceae. Mycorrhiza 26:325 –332.
+Plett, J. M., A. Kohler, A. Khachane, K. Keniry, K. L. Plett, F.
+Martin, and I. C. Anderson. 2015. The effect of elevated car-bon dioxide on the interaction between Eucalyptus grandis
+and diverse isolates of Pisolithus sp is associated with a com-
+plex shift in the root transcriptome. New Phytologist206:1423 –1436.
+Reinhart, K. O., and R. M. Callaway. 2006. Soil biota and inva-
+sive plants. New Phytologist 170:445 –457.
+Rosling, A., M. G. Midgley, T. Cheeke, H. Urbina, P . Frans-
+son, and R. P . Phillips. 2016. Phosphorus cycling in decid-uous forest soil differs between stands dominated by ecto-and arbuscular mycorrhizal trees. New Phytologist 209:1184 –1195.
+Smith, S. E., and D. J. Read.2008. Mycorrhizal Symbiosis.
+Third edition. Academic Press, New York, New York, USA.
+Solly, E. F., B. D. Lindahl, M. A. Dawes, M. Peter, R. C. Souza,
+C. Rixen, and F. Hagedorn. 2017. Experimental soil warmingshifts the fungal community composition at the alpine tree-line. New Phytologist 215:766 –778.
+Soudzilovskaia, N. A., S. Vaessen, M. van't Zelfde, and N. Raes.
+2017. Global patterns of mycorrhizal distributionand theirenvironmental drivers. Pages 223 –235InL. Tedersoo, editors.
+Biogeography of mycorrhizal symbiosis. Springer Interna-tional Publishing, Cham, Switzerland.Steidinger, B. S., et al. 2019. Climatic controls of decomposition
+drive the global biogeography of forest-tree symbioses. Nat-
+ure, 569, 404.
+Tedersoo, L., and M. Bahram. 2019. Mycorrhizal types differ in
+ecophysiology and alter plant nutrition and soil processes.Biological Reviews 94:1857 –1880.
+Terrer, C., S. Vicca, B. A. Hungate, R. P . Phillips, and I. C.
+Prentice. 2016. Mycorrhizal association as a primary controlof the CO
+2fertilization effect. Science 353:72 –74.
+Timling, I., and D. L. Taylor. 2012. Peeking through a frosty
+window: molecular insights into the ecology of Arctic soilfungi. Fungal Ecology 5:419 –429.
+Timling, I., A. Dahlberg, D. A. Walker, M. Gardes, J. Y . Char-
+cosset, J. M. Welker, and D. L. Taylor. 2012. Distribution anddrivers of ectomycorrhizal fungal communities across theNorth American Arctic. Ecosphere 3:25.
+Treseder, K. K. 2004. A meta-analysis of mycorrhizal responses
+to nitrogen, phosphorus, and atmospheric CO2 in field stud-ies. New Phytologist 164:347 –355.
+Treseder, K. K., and J. T. Lennon. 2015. Fungal traits that drive
+ecosystem dynamics on land. Microbiology and Molecular
+Biology Reviews 79:243 –262.
+Treseder, K. K., L. M. Egerton-Warburton, M. F. Allen, Y . F.
+Cheng, and W . C. Oechel. 2003. Alteration of soil carbonpools and communities of mycorrhizal fungi in chaparralexposed to elevated carbon dioxide. Ecosystems 6:786 –796.
+Treseder, K. K., E. B. Allen, L. M. Egerton-Warburton, M. M.
+Hart, J. N. Klironomos, H. Maherali, and L. Tedersoo. 2018.Arbuscular mycorrhizal fungi as mediators of ecosystemresponses to nitrogen deposition: A trait-based predictiveframework. Journal of Ecology 106:480 –489.
+Wallace, B. C., M. J. Lajeunesse, G. Dietz, I. J. Dahabreh, T. A.
+Trikalinos, C. H. Schmid, and J. Gurevitch. 2017. OpenMEE:Intuitive, open-source software for meta-analysis in ecologyand evolutionary biology. Methods in Ecology and Evolution8:941 –947.
+Wright, S. F., M. Franke-Snyder, J. B. Morton, and A. Upad-
+hyaya. 1996. Time-course study and partial characterizationof a protein on hyphae of arbuscular mycorrhizal fungi dur-
+ing active colonization of roots. Plant and Soil 181:193 –203.
+Wurzburger, N., E. N. J. Brookshire, M. L. McCormack, and
+R. A. Lankau. 2017. Mycorrhizal fungi as drivers and modu-lators of terrestrial ecosystem processes. New Phytologist213:996 –999.
+Yang, W ., Y . Zheng, C. Gao, X. H. He, Q. Ding, Y . Kim, Y . C.
+Rui, S. P . Wang, and L. D. Guo. 2013. The arbuscular mycor-rhizal fungal community response to warming and grazingdiffers between soil and roots on the Qinghai-Tibetan Pla-teau. PLoS ONE 8:e76447.
+S
+UPPORTING INFORMATION
+Additional supporting information may be found in the online version of this article at http://onlinelibrary.wiley.com/doi/
+10.1002/ecy.2978/suppinfoApril 2020 MYCORRHIZAE CLIMATE STUDY GEOGRAPHY BIAS Article e02978; page 11CONCEPTS &S YNTHESIS
