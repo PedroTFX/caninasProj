@@ -22,24 +22,11 @@ def find_terms_in_text(text, terms):
     term_freq = {}
     
     for term, synonyms in terms.items():
+        term_freq[term] = 0
         for synonym in synonyms:
-            # print(synonyms)
-            no_spaces = "".join(synonym.split(" "))
-            synonym = " " + synonym + " "
-            # print(synonyms, no_spaces)
-        for line in lines:
-            # print(synonym)
-            for syn in synonym.split(" "):
-                # print(syn)
-                # if all the words in the synonym are in the line
-                if all([syn in line for syn in synonym.split(" ")]):
-                    print("\n########### "+ synonym + "##############")
-                    print(line)
-                    if term in term_freq:
-                        term_freq[term] += 1
-                    else:
-                        term_freq[term] = 1
-                    break
+            for line in lines:
+                if synonym.lower() in line.lower():
+                    term_freq[term] += 1
                 
     if term_freq:
         print('---------------Terms Stats-----------------------')
@@ -114,64 +101,109 @@ frequentist_terms = {
 
 # Bayesian Terminologies and Synonyms
 bayesian_terms = {
-    "Base": [
-        "bayesian", "bayes", "MCMC"
+    "Bayes_Theorem": [
+        "Bayesian formula",
+        "Bayes rule",
+        "Conditional probability update",
+        "Posterior probability formula",
+        "Bayesian updating",
+        "Inverse probability",
+        "Bayes' law"
     ],
-    "Prior distribution": [
-        "prior distribution", "prior belief", "a priori distribution"
+    "Prior_Distribution": [
+        "Prior belief",
+        "Initial probability distribution",
+        "Pre-data distribution",
+        "Prior assumption",
+        "Subjective probability",
+        "Initial estimate",
+        "Prior probability density",
+        "Non-informative prior",
+        "Weakly informative prior"
     ],
-    "Posterior distribution": [
-        "posterior distribution", "updated distribution", "posterior belief"
+    "Posterior_Distribution": [
+        "Updated belief distribution",
+        "Post-data probability",
+        "Final probability distribution",
+        "Conditional probability (after observing data)",
+        "Bayesian posterior",
+        "Updated probability density"
     ],
-    "Bayesian updating": [
-        "bayesian updating", "belief updating", "updating probabilities"
+    "Likelihood": [
+        "Data probability",
+        "Evidence probability",
+        "Likelihood function",
+        "Fit of the data to the model",
+        "Probability of the observed data",
+        "Data-generating probability",
+        "Model likelihood"
     ],
-    "Credible interval": [
-        "credible interval", "bayesian confidence interval", "posterior interval", "probability interval"
+    "Inference": [
+        "Bayesian inference",
+        "Probabilistic reasoning",
+        "Statistical estimation",
+        "Parameter estimation",
+        "Probabilistic model estimation",
+        "Deductive learning",
+        "Posterior inference"
     ],
-    "Bayes' theorem": [
-        "bayes' theorem", "bayes' rule", "bayes' formula"
+    "Markov_Chain_Monte_Carlo": [
+        "MCMC methods",
+        "Bayesian sampling methods",
+        "Stochastic simulation",
+        "Random walk Monte Carlo",
+        "Gibbs sampling",
+        "Metropolis-Hastings algorithm",
+        "Hamiltonian Monte Carlo",
+        "MCMC convergence analysis",
+        "Bayesian computational algorithms"
     ],
-    "Markov Chain Monte Carlo (MCMC)": [
-        "MCMC", "markov chain monte carlo", "monte carlo methods", "gibbs sampling", "random walk simulation"
+    "Conjugate_Priors": [
+        "Analytical priors",
+        "Simplifying priors",
+        "Conjugate families of distributions",
+        "Prior-posterior matching",
+        "Natural conjugate priors",
+        "Closed-form posterior priors"
     ],
-    "Metropolis-Hastings algorithm": [
-        "metropolis-hastings algorithm", "M-H algorithm", "metropolis method", "hastings algorithm"
+    "Hierarchical_Models": [
+        "Bayesian hierarchical modeling",
+        "Multilevel Bayesian models",
+        "Nested Bayesian models",
+        "Random-effects Bayesian models",
+        "Partial pooling models",
+        "Hierarchical Bayesian analysis"
     ],
-    "Stan (Bayesian programming language)": [
-    "stan modeling", "stan framework"
+    "Credible_Interval": [
+        "Bayesian interval",
+        "Posterior interval",
+        "Probability interval",
+        "Confidence-like interval",
+        "Bayesian range",
+        "Credible probability bounds"
     ],
-    "Variational Bayes": [
-        "variational bayes", "variational inference", "approximate inference"
+    "Posterior_Predictive_Check": [
+        "Bayesian model diagnostics",
+        "Posterior predictive simulation",
+        "Model adequacy check",
+        "Predictive posterior assessment",
+        "Simulation-based diagnostics",
+        "Model fit evaluation"
     ],
-    "Bayesian Hierarchical model": [
-        "Bayesian hierarchical model", "multilevel model", "random effects model", "BHM"
-    ],
-    "Non-informative prior": [
-        "non-informative prior", "flat prior", "uniform prior"
-    ],
-    "Empirical Bayes": [
-        "empirical bayes", "data-driven bayes", "estimating priors from data"
-    ],
-    "Bayes factor": [
-        "bayes factor", "posterior odds ratio", "evidence ratio"
-    ],
-    "Posterior probability": [
-        "posterior probability", "belief probability", "bayesian posterior"
-    ],
-    "Information criteria (BIC)": [
-        "bic", "bayesian information criterion"
-    ],
-    "Posterior predictive checks": [
-        "posterior predictive checks", "model validation (bayesian)", "predictive checks"
-    ],
-    "Updating beliefs": [
-        "updating beliefs", "belief revision"
-    ],
-    "Robust Bayesian methods": [
-        "robust bayesian methods", "robust priors", "strong priors for outlier handling"
+    "General_Bayesian_Concepts": [
+        "Bayesian data analysis",
+        "Probabilistic programming",
+        "Predictive modeling",
+        "Evidence-based probability",
+        "Bayesian decision-making",
+        "Subjective probability models",
+        "Bayesian model comparison",
+        "Parameter uncertainty quantification",
+        "Robust Bayesian analysis",
+        "Prior elicitation"
     ]
 }
+
 
 file_path = 'bennett2020.pdf'  # Replace with the path to your PDF file
 
@@ -211,6 +243,7 @@ for txt_file in txt_files:
     baye_terms_percent = (baye_terms_count / total_terms_count) * 100
     print(f'Frequentist terms: {freq_terms_percent:.2f}%')
     print(f'Bayesian terms: {baye_terms_percent:.2f}%')
+
 
 
 
