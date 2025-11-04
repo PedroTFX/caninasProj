@@ -52,5 +52,5 @@ def find_duplicate_sample_ids(file_path: str, sample_id_column: str = 'Sample ID
         print(f"Duplicate Sample IDs saved to 'duplicate_sample_ids.csv'.")
 
 # Usage example:
-file_path = "CBSS.updated_xlsx 2.csv"  # Replace this with the path to your CSV file
+file_path = "CBSS.updated.csv"  # Replace this with the path to your CSV file
 find_duplicate_sample_ids(file_path)
